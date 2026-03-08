@@ -245,3 +245,4 @@ gh workflow run deploy.yml
 | [.github/workflows/docs/ARCHITECTURE.md](.github/workflows/docs/ARCHITECTURE.md) | CI/CD pipeline architecture |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution guidelines |
 | [CLAUDE.md](CLAUDE.md) | Claude Code instructions |
+
